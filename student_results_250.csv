@@ -1,0 +1,251 @@
+Student_ID,Name,Subject,Marks,Result
+1001,Anitha,Computer Science,66,Pass
+1002,Priya,Social,69,Pass
+1003,Suresh,Computer Science,66,Pass
+1004,Anitha,Maths,77,Pass
+1005,Arun,English,44,Fail
+1006,Ravi,Computer Science,67,Pass
+1007,Suresh,Computer Science,74,Pass
+1008,Divya,English,68,Pass
+1009,Karthik,English,52,Pass
+1010,Sneha,Social,58,Pass
+1011,Anitha,Social,32,Fail
+1012,Suresh,English,36,Fail
+1013,Priya,Computer Science,63,Pass
+1014,Arun,English,83,Pass
+1015,Karthik,Maths,39,Fail
+1016,Ravi,Social,94,Pass
+1017,Ravi,English,98,Pass
+1018,Divya,English,76,Pass
+1019,Arun,Social,87,Pass
+1020,Arun,English,68,Pass
+1021,Sneha,Science,36,Fail
+1022,Divya,Science,53,Pass
+1023,Arun,Social,62,Pass
+1024,Anitha,Science,79,Pass
+1025,Sneha,Social,80,Pass
+1026,Suresh,Social,64,Pass
+1027,Karthik,Science,68,Pass
+1028,Priya,English,89,Pass
+1029,Karthik,English,36,Fail
+1030,Anitha,Maths,68,Pass
+1031,Ajith,Computer Science,96,Pass
+1032,Anitha,Computer Science,46,Fail
+1033,Priya,English,86,Pass
+1034,Sneha,Maths,30,Fail
+1035,Sneha,English,72,Pass
+1036,Anitha,Computer Science,37,Fail
+1037,Priya,Science,92,Pass
+1038,Anitha,Maths,64,Pass
+1039,Karthik,Science,88,Pass
+1040,Meena,Computer Science,63,Pass
+1041,Suresh,Maths,54,Pass
+1042,Meena,Science,58,Pass
+1043,Meena,Science,76,Pass
+1044,Ajith,Maths,46,Fail
+1045,Karthik,English,52,Pass
+1046,Priya,English,92,Pass
+1047,Karthik,Computer Science,88,Pass
+1048,Karthik,Computer Science,96,Pass
+1049,Karthik,Social,92,Pass
+1050,Suresh,Computer Science,79,Pass
+1051,Priya,Maths,50,Pass
+1052,Sneha,Computer Science,54,Pass
+1053,Divya,Computer Science,40,Fail
+1054,Arun,Social,37,Fail
+1055,Arun,Science,51,Pass
+1056,Divya,Science,62,Pass
+1057,Divya,Maths,90,Pass
+1058,Ajith,English,32,Fail
+1059,Ajith,Social,55,Pass
+1060,Priya,Maths,32,Fail
+1061,Karthik,Social,45,Fail
+1062,Ravi,Social,52,Pass
+1063,Ajith,Maths,68,Pass
+1064,Ajith,Computer Science,81,Pass
+1065,Ravi,Maths,97,Pass
+1066,Suresh,English,77,Pass
+1067,Priya,Computer Science,83,Pass
+1068,Arun,Science,82,Pass
+1069,Anitha,Social,57,Pass
+1070,Suresh,English,42,Fail
+1071,Arun,Computer Science,77,Pass
+1072,Priya,Maths,63,Pass
+1073,Ajith,Maths,80,Pass
+1074,Arun,Science,41,Fail
+1075,Sneha,Maths,44,Fail
+1076,Anitha,Science,34,Fail
+1077,Priya,English,90,Pass
+1078,Ravi,Computer Science,62,Pass
+1079,Ravi,Science,60,Pass
+1080,Meena,English,80,Pass
+1081,Ajith,Social,96,Pass
+1082,Ajith,Maths,95,Pass
+1083,Priya,Social,92,Pass
+1084,Anitha,Social,58,Pass
+1085,Divya,Science,33,Fail
+1086,Arun,Computer Science,95,Pass
+1087,Suresh,English,45,Fail
+1088,Karthik,Science,48,Fail
+1089,Ravi,Maths,33,Fail
+1090,Arun,Maths,94,Pass
+1091,Sneha,Computer Science,88,Pass
+1092,Karthik,Computer Science,86,Pass
+1093,Arun,Science,46,Fail
+1094,Ajith,Computer Science,38,Fail
+1095,Meena,English,83,Pass
+1096,Suresh,Social,100,Pass
+1097,Meena,Science,83,Pass
+1098,Ajith,Maths,90,Pass
+1099,Priya,English,35,Fail
+1100,Arun,English,41,Fail
+1101,Karthik,Maths,35,Fail
+1102,Suresh,Social,47,Fail
+1103,Ajith,Science,57,Pass
+1104,Ajith,Science,68,Pass
+1105,Ajith,Science,57,Pass
+1106,Ravi,Social,73,Pass
+1107,Priya,Computer Science,77,Pass
+1108,Arun,Social,38,Fail
+1109,Suresh,English,94,Pass
+1110,Karthik,Science,54,Pass
+1111,Meena,Maths,89,Pass
+1112,Ravi,English,95,Pass
+1113,Arun,English,87,Pass
+1114,Anitha,Social,88,Pass
+1115,Karthik,Social,83,Pass
+1116,Priya,Computer Science,71,Pass
+1117,Suresh,Social,40,Fail
+1118,Sneha,Science,43,Fail
+1119,Meena,Computer Science,39,Fail
+1120,Karthik,English,90,Pass
+1121,Priya,Computer Science,90,Pass
+1122,Karthik,English,71,Pass
+1123,Suresh,Science,71,Pass
+1124,Anitha,Maths,44,Fail
+1125,Priya,Science,35,Fail
+1126,Sneha,Social,100,Pass
+1127,Anitha,English,46,Fail
+1128,Divya,Maths,52,Pass
+1129,Sneha,English,32,Fail
+1130,Ravi,Maths,42,Fail
+1131,Sneha,Maths,85,Pass
+1132,Ajith,English,59,Pass
+1133,Divya,Social,56,Pass
+1134,Anitha,Computer Science,72,Pass
+1135,Priya,English,90,Pass
+1136,Meena,Computer Science,60,Pass
+1137,Karthik,Maths,72,Pass
+1138,Divya,Computer Science,67,Pass
+1139,Divya,Social,64,Pass
+1140,Karthik,Computer Science,44,Fail
+1141,Divya,Science,61,Pass
+1142,Karthik,Maths,86,Pass
+1143,Ravi,Social,78,Pass
+1144,Priya,Computer Science,74,Pass
+1145,Ajith,Maths,30,Fail
+1146,Divya,English,63,Pass
+1147,Arun,Social,34,Fail
+1148,Divya,English,60,Pass
+1149,Anitha,Maths,42,Fail
+1150,Priya,Social,75,Pass
+1151,Ravi,Maths,64,Pass
+1152,Ravi,Science,44,Fail
+1153,Sneha,Social,72,Pass
+1154,Meena,Social,39,Fail
+1155,Karthik,English,96,Pass
+1156,Anitha,Computer Science,83,Pass
+1157,Karthik,Maths,30,Fail
+1158,Priya,Computer Science,48,Fail
+1159,Meena,Computer Science,95,Pass
+1160,Divya,Social,37,Fail
+1161,Suresh,Science,43,Fail
+1162,Arun,Social,74,Pass
+1163,Sneha,Social,100,Pass
+1164,Ravi,Social,100,Pass
+1165,Anitha,English,32,Fail
+1166,Divya,Social,79,Pass
+1167,Divya,Computer Science,30,Fail
+1168,Suresh,Science,41,Fail
+1169,Ravi,Computer Science,44,Fail
+1170,Divya,Maths,77,Pass
+1171,Ajith,Social,86,Pass
+1172,Ajith,Maths,50,Pass
+1173,Divya,Maths,98,Pass
+1174,Priya,Science,59,Pass
+1175,Divya,Social,80,Pass
+1176,Suresh,Science,86,Pass
+1177,Sneha,Computer Science,67,Pass
+1178,Ravi,English,82,Pass
+1179,Suresh,Social,88,Pass
+1180,Arun,Science,86,Pass
+1181,Priya,Social,46,Fail
+1182,Ajith,English,76,Pass
+1183,Ravi,English,35,Fail
+1184,Suresh,Social,43,Fail
+1185,Ravi,Social,86,Pass
+1186,Divya,Social,59,Pass
+1187,Karthik,Science,32,Fail
+1188,Divya,English,86,Pass
+1189,Divya,Social,33,Fail
+1190,Sneha,Maths,32,Fail
+1191,Ravi,Maths,38,Fail
+1192,Anitha,Maths,56,Pass
+1193,Divya,Science,53,Pass
+1194,Divya,Computer Science,96,Pass
+1195,Divya,Computer Science,60,Pass
+1196,Ravi,Maths,66,Pass
+1197,Sneha,English,48,Fail
+1198,Priya,Computer Science,52,Pass
+1199,Karthik,Social,64,Pass
+1200,Ravi,English,85,Pass
+1201,Sneha,Science,41,Fail
+1202,Priya,English,59,Pass
+1203,Ajith,Computer Science,79,Pass
+1204,Ajith,Social,65,Pass
+1205,Priya,Maths,52,Pass
+1206,Priya,English,65,Pass
+1207,Priya,English,69,Pass
+1208,Karthik,Science,62,Pass
+1209,Ajith,Social,53,Pass
+1210,Divya,Maths,74,Pass
+1211,Priya,Social,95,Pass
+1212,Priya,Computer Science,34,Fail
+1213,Anitha,English,49,Fail
+1214,Ravi,English,60,Pass
+1215,Arun,Science,69,Pass
+1216,Karthik,Social,40,Fail
+1217,Suresh,Maths,67,Pass
+1218,Priya,Computer Science,50,Pass
+1219,Karthik,Maths,70,Pass
+1220,Arun,Social,79,Pass
+1221,Ravi,Social,32,Fail
+1222,Suresh,Maths,37,Fail
+1223,Meena,English,43,Fail
+1224,Ravi,Maths,60,Pass
+1225,Meena,English,32,Fail
+1226,Suresh,Science,56,Pass
+1227,Suresh,Science,65,Pass
+1228,Ajith,Science,75,Pass
+1229,Priya,Social,48,Fail
+1230,Anitha,Science,46,Fail
+1231,Sneha,Maths,68,Pass
+1232,Suresh,Maths,65,Pass
+1233,Arun,Science,55,Pass
+1234,Karthik,Science,85,Pass
+1235,Meena,Computer Science,90,Pass
+1236,Sneha,Computer Science,34,Fail
+1237,Meena,Social,57,Pass
+1238,Suresh,Computer Science,46,Fail
+1239,Suresh,Maths,92,Pass
+1240,Meena,Science,42,Fail
+1241,Arun,Science,51,Pass
+1242,Divya,English,45,Fail
+1243,Meena,Science,90,Pass
+1244,Anitha,Computer Science,67,Pass
+1245,Divya,English,68,Pass
+1246,Divya,Maths,51,Pass
+1247,Karthik,Maths,87,Pass
+1248,Suresh,Computer Science,38,Fail
+1249,Divya,Computer Science,59,Pass
+1250,Ravi,Social,44,Fail
